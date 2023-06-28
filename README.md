@@ -21,26 +21,7 @@ Full-Stack AI/ML Engineer. I have worked as a Consultant for 5+ Years. I am pass
 🐒 Fun Fact: Lived in 3 continents by now: Asia, Europe and the Americas. 
 
 🔍 Working as a Freelance and Full Time **Full-Stack AI/ML Engineer for over 5+ years I have experience working in the following industries:**
-    - Generative AI
-    - Artificial Intelligence
-    - Robotic Process Automation (RPA)
-    - Cryptocurrency
-    - Virtual Reality
-    - Cyber Defense Solutions
-    - Defense and Government
-    - Financial Services
-    - Risk Management
-    - Industrial Automation
-    - Cyber Defense Solutions
-    - Education Technology
-    - Digital Media
-    - Information Technology
-    - Logistics
-    - E-commerce
-    - Solar Technologies
-    - Analytics
-    - Business Intelligence
-    - Natural Resources
+Generative AI | Artificial Intelligence | Robotic Process Automation (RPA) | Healthcare | EMR Software Systems | Cryptocurrency | Virtual Reality | Cyber Defense Solutions | Defense and Government | Financial Services | Risk Management | Industrial Automation | Education Technology | Digital Media | Information Technology | Logistics | E-commerce | Solar Technologies | Analytics | Business Intelligence | Natural Resources | Insurance
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
