@@ -2,17 +2,46 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=christinestraub" alt="christinestraub" /></a> </p>
 
-- 🌎  I am based in Southern California. 
+Full-Stack AI/ML Engineer. I have worked as a Consultant for 5+ Years. I am passionate about leveraging Artificial Intelligence and Data to drive business growth and improve decision-making processes. Skilled in developing and deploying advanced machine learning models, utilizing deep learning techniques, and working with big data technologies. I have a proven track record of delivering high-quality results and collaborating with cross-functional teams to bring innovative solutions to market.
 
-- 📕 I studied Cognitive Science and Computer Scinece at UC Berkeley (Go Bears!🐻)
+🌎 Based in Irvine, California. 
 
-- 🎯 I am results-driven and detail-oriented
+📕 I studied Cognitive Science and Computer Scinece at UC Berkeley (Go Bears!🐻)
 
-- 📫 You can contact me via email: christinestraubdev@gmail.com
+🎯 I am results-driven and detail-oriented
 
-- 📱 Schedule a call via calendly: https://calendly.com/christinestraub
+📫 You can contact me via email: christinestraubdev@gmail.com
 
-- 🎾 During my free time, I love to play Tennis, Soccer, Scuba Dive, Freedive,  Improve my photography skills, Read about latest technology and thrends, and Travel the world. 
+📱 Schedule a call via calendly: https://calendly.com/christinestraub
+
+🌐 Website: christinemstraub.com
+
+🎾 During my free time, I love to play Tennis, Soccer, Scuba Dive, Freedive,  Improve my photography skills, Read about latest technology and thrends, and Travel the world. 
+
+🐒 Fun Fact: Lived in 3 continents by now: Asia, Europe and the Americas. 
+
+🔍 Working as a Freelance and Full Time **Full-Stack AI/ML Engineer for over 5+ years I have experience working in the following industries:**
+    - Generative AI
+    - Artificial Intelligence
+    - Robotic Process Automation (RPA)
+    - Cryptocurrency
+    - Virtual Reality
+    - Cyber Defense Solutions
+    - Defense and Government
+    - Financial Services
+    - Risk Management
+    - Industrial Automation
+    - Cyber Defense Solutions
+    - Education Technology
+    - Digital Media
+    - Information Technology
+    - Logistics
+    - E-commerce
+    - Solar Technologies
+    - Analytics
+    - Business Intelligence
+    - Natural Resources
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/......" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="......" height="30" width="40" /></a>
