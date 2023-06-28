@@ -14,7 +14,7 @@ Full-Stack AI/ML Engineer. I have worked as a Consultant for 5+ Years. I am pass
 
 📱 Schedule a call via calendly: https://calendly.com/christinestraub
 
-🌐 Website: christinemstraub.com
+🌐 Website: https://christinemstraub.com
 
 🎾 During my free time, I love to play Tennis, Soccer, Scuba Dive, Freedive,  Improve my photography skills, Read about latest technology and thrends, and Travel the world. 
 
