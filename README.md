@@ -23,7 +23,7 @@ Full-Stack AI/ML Engineer. I have worked as a Consultant for 5+ Years. I am pass
 🔍 Working as a Freelance and Full Time **Full-Stack AI/ML Engineer for over 5+ years I have experience working in the following industries:**
 Generative AI | Artificial Intelligence | Robotic Process Automation (RPA) | Healthcare | EMR Software Systems | Cryptocurrency | Virtual Reality | Cyber Defense Solutions | Defense and Government | Financial Services | Risk Management | Industrial Automation | Education Technology | Digital Media | Information Technology | Logistics | E-commerce | Solar Technologies | Analytics | Business Intelligence | Natural Resources | Insurance
 
-Technical Expertise: https://momentous-blackbird-0cc.notion.site/Technical-Expertise-a4d39819eba345cc83d6d1628fc32070?pvs=4
+**Technical Expertise:** https://momentous-blackbird-0cc.notion.site/Technical-Expertise-a4d39819eba345cc83d6d1628fc32070?pvs=4
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
