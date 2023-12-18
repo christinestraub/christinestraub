@@ -2,7 +2,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=christinestraub" alt="christinestraub" /></a> </p>
 
-Full-Stack AI/ML Engineer. I have worked as a Consultant for 5+ Years. I am passionate about leveraging Artificial Intelligence and Data to drive business growth and improve decision-making processes. Skilled in developing and deploying advanced machine learning models, utilizing deep learning techniques, and working with big data technologies. I have a proven track record of delivering high-quality results and collaborating with cross-functional teams to bring innovative solutions to market.
+Full-Stack AI/ML Engineer. I have worked as a Consultant for 7-8 Years. I am passionate about leveraging Artificial Intelligence and Data to drive business growth and improve decision-making processes. Skilled in developing and deploying advanced machine learning models, utilizing deep learning techniques, and working with big data technologies. I have a proven track record of delivering high-quality results and collaborating with cross-functional teams to bring innovative solutions to market.
 
 🌎 Based in Irvine, California. 
 
@@ -20,7 +20,7 @@ Full-Stack AI/ML Engineer. I have worked as a Consultant for 5+ Years. I am pass
 
 🐒 Fun Fact: Lived in 3 continents by now: Asia, Europe and the Americas. 
 
-🔍 Working as a Freelance and Full Time **Full-Stack AI/ML Engineer for over 5+ years I have experience working in the following industries:**
+🔍 Working as a Freelance and Full Time **Full-Stack AI/ML Engineer for over 7-8 years I have experience working in the following industries:**
 Generative AI | Artificial Intelligence | Robotic Process Automation (RPA) | Healthcare | EMR Software Systems | Cryptocurrency | Virtual Reality | Cyber Defense Solutions | Defense and Government | Financial Services | Risk Management | Industrial Automation | Education Technology | Digital Media | Information Technology | Logistics | E-commerce | Solar Technologies | Analytics | Business Intelligence | Natural Resources | Insurance
 
 **Technical Expertise:** https://momentous-blackbird-0cc.notion.site/Technical-Expertise-a4d39819eba345cc83d6d1628fc32070?pvs=4
