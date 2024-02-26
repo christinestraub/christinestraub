@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Christine Straub</h1>
-<h3 align="center">AI/ML Engineer 🧑‍💻</h3>
+<h3 align="center">Fullstack AI/ML Engineer 🧑‍💻</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=christinestraub&label=Profile%20views&color=0e75b6&style=flat" alt="christinestraub" /> </p>
 
-Full-Stack AI/ML Engineer. I have worked as a Consultant for 7-8 Years. I am passionate about leveraging Artificial Intelligence and Data to drive business growth and improve decision-making processes. Skilled in developing and deploying advanced machine learning models, utilizing deep learning techniques, and working with big data technologies. I have a proven track record of delivering high-quality results and collaborating with cross-functional teams to bring innovative solutions to market.
+Full-Stack AI/ML Engineer. I have worked as a Consultant for 8+ Years. I am passionate about leveraging Artificial Intelligence and Data to drive business growth and improve decision-making processes. Skilled in developing and deploying advanced machine learning models, utilizing deep learning techniques, and working with big data technologies. I have a proven track record of delivering high-quality results and collaborating with cross-functional teams to bring innovative solutions to market.
 
 🌎 Based in Irvine, California. 
 
