@@ -4,6 +4,8 @@
 
 Full-Stack AI/ML Engineer. I have worked as a Consultant for 8+ Years. I am passionate about leveraging Artificial Intelligence and Data to drive business growth and improve decision-making processes. Skilled in developing and deploying advanced machine learning models, utilizing deep learning techniques, and working with big data technologies. I have a proven track record of delivering high-quality results and collaborating with cross-functional teams to bring innovative solutions to market.
 
+📕 Portfolio: https://christinestraub.notion.site/Portfolio-b5c0bd8b916441e8b7687ae2ff5dc8fe
+
 🌎 Based in Irvine, California. 
 
 📕 I studied Cognitive Science and Computer Scinece at UC Berkeley (Go Bears!🐻)
