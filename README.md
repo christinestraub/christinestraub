@@ -25,8 +25,6 @@ Full-Stack AI/ML Engineer. I have worked as a Consultant for 8+ Years. I am pass
 🔍 Working as a Freelance and Full Time **Full-Stack AI/ML Engineer for over 7-8 years I have experience working in the following industries:**
 Generative AI | Artificial Intelligence | Robotic Process Automation (RPA) | Healthcare | EMR Software Systems | Cryptocurrency | Virtual Reality | Cyber Defense Solutions | Defense and Government | Financial Services | Risk Management | Industrial Automation | Education Technology | Digital Media | Information Technology | Logistics | E-commerce | Solar Technologies | Analytics | Business Intelligence | Natural Resources | Insurance
 
-- 📫 How to reach me **christinemstraub@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/straubchristine/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="......" height="30" width="40" /></a>
