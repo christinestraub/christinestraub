@@ -105,8 +105,3 @@
 [![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)](https://www.djangoproject.com/)
 [![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-
-### Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=christinestraub&theme=radical&hide_border=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=christinestraub&show_icons=true&theme=radical&hide_border=true&count_private=true)
