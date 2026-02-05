@@ -1,5 +1,3 @@
-![Personal Branding Header](file:///Users/christinestraub/.gemini/antigravity/brain/09eee1e3-e629-4e01-ae42-a0a9b4e53d09/github_branding_header_straub_1770326710929.png)
-
 # Hi, I'm Christine Straub 👋
 
 📍 **San Clemente, California** | 🤖 **Fullstack AI/ML Engineer** | 🚀 **(8+ Years)**
