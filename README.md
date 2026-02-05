@@ -21,8 +21,7 @@
 
 ## Key Projects & Impact
 
-### 🤖 Generative AI & Agentic Systems
-
+### 🤖 Generative AI & Product Engineering
 * 📄 [**Unstructured.io**](https://github.com/Unstructured-IO) – **Engineered** high-throughput data extraction pipelines for LLM ingestion, processing millions of complex documents with state-of-the-art layout analysis (**Senior AI/ML Engineer**).
 * 🏙️ [**Duxre**](https://duxre.com/) – **Architected** the DASH Chatbot’s multi-agent RAG engine, enabling complex CRE task orchestration and streamlining asset analysis through intelligent automation and evaluation (**AI/ML Tech Lead**).
 * ✍️ [**Averi AI**](https://www.averi.ai/) – **Developed** a GenAI marketing copilot leveraging LLMs for automated content optimization and brand-aligned strategy generation (**AI/ML Tech Lead**).
@@ -31,14 +30,14 @@
 * 🇺🇸 **MyRuck AI** – **Spearheaded** a full-stack HR automation platform connecting veterans to benefits via intelligent RAG-driven government API integrations (**AI/ML Tech Lead**).
 * 🎓 **WeStepForward** – **Built** adaptive exam preparation platforms featuring personalized, AI-driven learning paths and retrieval-augmented study aids (**AI/ML Tech Lead**).
 
-### 👁️ Computer Vision & AI Architecture
+### 👁️ Computer Vision & AI
 
 * 🏛️ [**Medici Land Governance**](https://mediciland.com/) – **Working on** blockchain-based land administration, high-volume Intelligent Document Processing (IDP) systems (**Senior ML Engineer**).
 * 🤖 [**RIOS AI**](https://rios.ai/) – **Built production MLOps pipelines** for industrial robotics, orchestrating real-time video anomaly detection and closing the data-to-annotation loop (**Senior ML Engineer**).
 * 🍍 [**Eastern Kentucky University**](https://www.eku.edu/) – **Pioneered** drone-based Computer Vision systems for agricultural spatial analytics, optimizing crop yields in developing regions (**Senior ML Engineer**).
 * 🧬 [**Specific Diagnostics**](https://www.sbir.gov/portfolio/406405) – **Accelerated** bacterial infection diagnostics using AI-powered computer vision and high-precision signal processing (**Senior ML Engineer**).
 
-### ⚙️ Advanced MLOps & Production Data Engineering
+### ⚙️ Advanced MLOps, Production Data Engineering, Machine Learning
 
 * 🕵️‍♀️ [**Memetica**](https://memetica.co/) – **Designed scalable** threat intelligence infrastructure and digital investigation pipelines for real-time tracking of disinformation (**Senior Data Engineer**).
 * 🛡️ [**Sapient Logic (COMET & POLAR)**](https://sapientlogic.com/) – **Technical Lead** for mission-critical military intelligence systems and tactical mobile OCR solutions for the DoD (**AI/ML Tech Lead**).
