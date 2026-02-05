@@ -1,3 +1,5 @@
+![Personal Branding Header](file:///Users/christinestraub/.gemini/antigravity/brain/09eee1e3-e629-4e01-ae42-a0a9b4e53d09/github_branding_header_straub_1770326710929.png)
+
 # Hi, I'm Christine Straub 👋
 
 📍 **San Clemente, California** | 🤖 **Fullstack AI/ML Engineer** | 🚀 **(8+ Years)**
@@ -33,7 +35,7 @@
 
 ### 👁️ Computer Vision & AI Architecture
 
-* 🏛️ [**Medici Land Governance**](https://mediciland.com/) – **Led AI Architecture** for blockchain-based land administration, deploying high-volume Intelligent Document Processing (IDP) systems (**Senior ML Engineer**).
+* 🏛️ [**Medici Land Governance**](https://mediciland.com/) – **Working on** blockchain-based land administration, high-volume Intelligent Document Processing (IDP) systems (**Senior ML Engineer**).
 * 🤖 [**RIOS AI**](https://rios.ai/) – **Built production MLOps pipelines** for industrial robotics, orchestrating real-time video anomaly detection and closing the data-to-annotation loop (**Senior ML Engineer**).
 * 🍍 [**Eastern Kentucky University**](https://www.eku.edu/) – **Pioneered** drone-based Computer Vision systems for agricultural spatial analytics, optimizing crop yields in developing regions (**Senior ML Engineer**).
 * 🧬 [**Specific Diagnostics**](https://www.sbir.gov/portfolio/406405) – **Accelerated** bacterial infection diagnostics using AI-powered computer vision and high-precision signal processing (**Senior ML Engineer**).
