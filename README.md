@@ -17,11 +17,12 @@
 
 > Fullstack AI/ML Engineer with 8+ years of experience bridging the gap between cutting-edge AI research and production-grade engineering. Specializing in **Generative AI (RAG/Agents)**, **Computer Vision**, and **Enterprise MLOps**.
 
-🌐 [Portfolio](https://christinemstraub.com) | 📧 [Email](mailto:christinestraubdev@gmail.com) | 👔 [LinkedIn](https://www.linkedin.com/in/straubchristine/)
+🌐 [Portfolio](https://christinemstraub.com) | 📝 [Notion Portfolio](https://christinestraub.notion.site/Christine-Straub-ML-Portfolio-2f328fbe27068053b029f28ffe86cde9) | 📧 [Email](mailto:christinestraubdev@gmail.com) | 👔 [LinkedIn](https://www.linkedin.com/in/straubchristine/)
 
 ## Key Projects & Impact
 
 ### 🤖 Generative AI & Product Engineering
+
 * 📄 [**Unstructured.io**](https://github.com/Unstructured-IO) – **Engineered** high-throughput data extraction pipelines for LLM ingestion, processing millions of complex documents with state-of-the-art layout analysis (**Senior AI/ML Engineer**).
 * 🏙️ [**Duxre**](https://duxre.com/) – **Architected** the DASH Chatbot’s multi-agent RAG engine, enabling complex CRE task orchestration and streamlining asset analysis through intelligent automation and evaluation (**AI/ML Tech Lead**).
 * ✍️ [**Averi AI**](https://www.averi.ai/) – **Developed** a GenAI marketing copilot leveraging LLMs for automated content optimization and brand-aligned strategy generation (**AI/ML Tech Lead**).
