@@ -19,7 +19,7 @@
 **RL & Agents:** Multi-agent orchestration, policy learning, RLHF, reward modeling, agent reasoning & tool use
 **Advanced Generative AI:** Multimodal VLMs, advanced reasoning models, RAG, prompt caching & optimization, long-context processing
 **Computer Vision:** Enterprise-scale vision solutions
-**MLOps & Infrastructure:** Production-grade ML systems and infrastructure**.
+**MLOps & Infrastructure:** Production-grade ML systems and infrastructure.
 
 🌐 [Portfolio](https://christinemstraub.com) | 📝 [Notion Portfolio](https://christinestraub.notion.site/Christine-Straub-ML-Portfolio-2f328fbe27068053b029f28ffe86cde9) | 📧 [Email](mailto:christinestraubdev@gmail.com) | 👔 [LinkedIn](https://www.linkedin.com/in/straubchristine/)
 
