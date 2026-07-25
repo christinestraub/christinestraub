@@ -1,6 +1,6 @@
 # Hi, I'm Christine Straub 👋
 
-📍 **San Clemente, California** | 🤖 **Fullstack AI/ML Engineer** | 🚀 **(8+ Years)**
+📍 **San Clemente, California** | 🤖 **Technical Lead, Machine Learning Engineer** | 🚀 **(8+ Years)**
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org)
