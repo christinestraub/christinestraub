@@ -15,7 +15,7 @@
 [![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat&logo=keras&logoColor=white)](https://keras.io)
 [![GPU](https://img.shields.io/badge/GPU-76B900?style=flat&logo=nvidia&logoColor=white)](https://developer.nvidia.com/cuda-zone)
 
-> I'm a Senior Applied AI/ML Engineer with deep expertise in RL and Agentic Systems. 8+ years shipping enterprise-grade AI solutions:
+> I'm a Lead AI and Machine Learning Engineer with deep expertise in RL and Agentic Systems. 8+ years shipping enterprise-grade AI solutions:
 **RL & Agents:** Multi-agent orchestration, policy learning, RLHF, reward modeling, agent reasoning & tool use
 **Advanced Generative AI:** Multimodal VLMs, advanced reasoning models, RAG, prompt caching & optimization, long-context processing
 **Computer Vision:** Enterprise-scale vision solutions
