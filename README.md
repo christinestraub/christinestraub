@@ -15,12 +15,13 @@
 [![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat&logo=keras&logoColor=white)](https://keras.io)
 [![GPU](https://img.shields.io/badge/GPU-76B900?style=flat&logo=nvidia&logoColor=white)](https://developer.nvidia.com/cuda-zone)
 
-> I'm a Lead AI/ML Engineer specializing in document intelligence: OCR, layout inference, and VLM-based extraction pipelines that turn unstructured documents (deeds, liens, mortgages, court dockets, medical records, 10-K filings) into structured, trustworthy data for LLM systems. 8+ years shipping enterprise-grade AI solutions, with merged contributions across 7 repositories in the Unstructured ecosystem:
-**Document Intelligence:** OCR (PaddleOCR, Tesseract), layout analysis, VLM extraction (Gemini, Qwen3-VL), intelligent document processing, schema enforcement, Unstructured OSS
-**RL & Agents:** Multi-agent orchestration, agent evaluation (RL environments, deterministic verifiers, benchmarks), RLHF, reward modeling, agent reasoning & tool use
-**Advanced Generative AI:** Multimodal VLMs, advanced reasoning models, RAG, prompt caching & optimization, long-context processing
-**Computer Vision:** Enterprise-scale vision solutions
-**MLOps & Infrastructure:** Production-grade ML systems and infrastructure.
+> I'm a Lead AI/ML Engineer specializing in document intelligence: OCR, layout inference, and VLM-based extraction pipelines that turn unstructured documents (deeds, liens, mortgages, court dockets, medical records, 10-K filings) into structured, trustworthy data for LLM systems. 8+ years shipping enterprise-grade AI solutions, with merged contributions across 7 repositories in the Unstructured ecosystem.
+>
+> - **Document Intelligence:** OCR (PaddleOCR, Tesseract), layout analysis, VLM extraction (Gemini, Qwen3-VL), intelligent document processing, schema enforcement, Unstructured OSS
+> - **RL & Agents:** Multi-agent orchestration, agent evaluation (RL environments, deterministic verifiers, benchmarks), RLHF, reward modeling, agent reasoning & tool use
+> - **Advanced Generative AI:** Multimodal VLMs, advanced reasoning models, RAG, prompt caching & optimization, long-context processing
+> - **Computer Vision:** Enterprise-scale vision solutions
+> - **MLOps & Infrastructure:** Production-grade ML systems and infrastructure
 
 🌐 [Portfolio](https://christinemstraub.com) | 📝 [Notion Portfolio](https://christinestraub.notion.site/Christine-Straub-ML-Portfolio-2f328fbe27068053b029f28ffe86cde9) | 📧 [Email](mailto:christinestraubdev@gmail.com) | 👔 [LinkedIn](https://www.linkedin.com/in/straubchristine/)
 
@@ -28,39 +29,39 @@
 
 ### 🤖 Generative AI & Product Engineering
 
-* 📄 [**Unstructured.io**](https://github.com/Unstructured-IO) – **Engineered** high-throughput data extraction pipelines for LLM ingestion, processing millions of complex documents with state-of-the-art layout analysis (**Senior AI/ML Engineer**).
-* 🏙️ [**Duxre**](https://duxre.com/) – **Architected** the DASH Chatbot’s multi-agent RAG engine, enabling complex CRE task orchestration and streamlining asset analysis through intelligent automation and evaluation (**AI/ML Tech Lead**).
-* ✍️ [**Averi AI**](https://www.averi.ai/) – **Developed** a GenAI marketing copilot leveraging LLMs for automated content optimization and brand-aligned strategy generation (**AI/ML Tech Lead**).
-* 🗣️ [**Speechlabs**](https://www.speechlab.ai/) – **Advanced** NLU capabilities for next-gen audio analysis, implementing high-accuracy sentiment tracking and speech processing pipelines (**Senior Software Architect**).
-* 🕸️ [**Araya**](https://araya.app/login) – **Architected** an **AI-driven healthcare EMR system**, implementing Knowledge Graphs and semantic search to unlock latent clinical insights from enterprise-scale unstructured medical data (**AI/ML Tech Lead**).
-* 🇺🇸 **MyRuck AI** – **Spearheaded** a full-stack HR automation platform connecting veterans to benefits via intelligent RAG-driven government API integrations (**AI/ML Tech Lead**).
-* 🎓 **WeStepForward** – **Built** adaptive exam preparation platforms featuring personalized, AI-driven learning paths and retrieval-augmented study aids (**AI/ML Tech Lead**).
+- 📄 [**Unstructured.io**](https://github.com/Unstructured-IO) – **Engineered** high-throughput data extraction pipelines for LLM ingestion, processing millions of complex documents with state-of-the-art layout analysis (**Senior AI/ML Engineer**).
+- 🏙️ [**Duxre**](https://duxre.com/) – **Architected** the DASH Chatbot’s multi-agent RAG engine, enabling complex CRE task orchestration and streamlining asset analysis through intelligent automation and evaluation (**AI/ML Tech Lead**).
+- ✍️ [**Averi AI**](https://www.averi.ai/) – **Developed** a GenAI marketing copilot leveraging LLMs for automated content optimization and brand-aligned strategy generation (**AI/ML Tech Lead**).
+- 🗣️ [**Speechlabs**](https://www.speechlab.ai/) – **Advanced** NLU capabilities for next-gen audio analysis, implementing high-accuracy sentiment tracking and speech processing pipelines (**Senior Software Architect**).
+- 🕸️ [**Araya**](https://araya.app/login) – **Architected** an **AI-driven healthcare EMR system**, implementing Knowledge Graphs and semantic search to unlock latent clinical insights from enterprise-scale unstructured medical data (**AI/ML Tech Lead**).
+- 🇺🇸 **MyRuck AI** – **Spearheaded** a full-stack HR automation platform connecting veterans to benefits via intelligent RAG-driven government API integrations (**AI/ML Tech Lead**).
+- 🎓 **WeStepForward** – **Built** adaptive exam preparation platforms featuring personalized, AI-driven learning paths and retrieval-augmented study aids (**AI/ML Tech Lead**).
 
 ### 👁️ Computer Vision & AI
 
-* 🏛️ [**Medici Land Governance**](https://mediciland.com/) – **Working on** blockchain-based land administration, high-volume Intelligent Document Processing (IDP) systems (**Senior ML Engineer**).
-* 🤖 [**RIOS AI**](https://rios.ai/) – **Built production MLOps pipelines** for industrial robotics, orchestrating real-time video anomaly detection and closing the data-to-annotation loop (**Senior ML Engineer**).
-* 🍍 [**Eastern Kentucky University**](https://www.eku.edu/) – **Pioneered** drone-based Computer Vision systems for agricultural spatial analytics, optimizing crop yields in developing regions (**Senior ML Engineer**).
-* 🧬 [**Specific Diagnostics**](https://www.sbir.gov/portfolio/406405) – **Accelerated** bacterial infection diagnostics using AI-powered computer vision and high-precision signal processing (**Senior ML Engineer**).
+- 🏛️ [**Medici Land Governance**](https://mediciland.com/) – **Working on** blockchain-based land administration, high-volume Intelligent Document Processing (IDP) systems (**Senior ML Engineer**).
+- 🤖 [**RIOS AI**](https://rios.ai/) – **Built production MLOps pipelines** for industrial robotics, orchestrating real-time video anomaly detection and closing the data-to-annotation loop (**Senior ML Engineer**).
+- 🍍 [**Eastern Kentucky University**](https://www.eku.edu/) – **Pioneered** drone-based Computer Vision systems for agricultural spatial analytics, optimizing crop yields in developing regions (**Senior ML Engineer**).
+- 🧬 [**Specific Diagnostics**](https://www.sbir.gov/portfolio/406405) – **Accelerated** bacterial infection diagnostics using AI-powered computer vision and high-precision signal processing (**Senior ML Engineer**).
 
 ### ⚙️ Advanced MLOps, Production Data Engineering, Machine Learning
 
-* 🕵️‍♀️ [**Memetica**](https://memetica.co/) – **Designed scalable** threat intelligence infrastructure and digital investigation pipelines for real-time tracking of disinformation (**Senior Data Engineer**).
-* 🛡️ [**Sapient Logic (COMET & POLAR)**](https://sapientlogic.com/) – **Technical Lead** for mission-critical military intelligence systems and tactical mobile OCR solutions for the DoD (**AI/ML Tech Lead**).
-* 🎓 [**Collegis Education**](https://collegiseducation.com/) – **Optimized** higher education analytics engines using real-time GCP data pipelines and predictive modeling for enrollment growth (**Senior Data Engineer/Scientist**).
-* 📦 [**Inxeption**](http://inxeptionpay.com/) – **Engineered** logistics pricing engines and vendor management systems processing massive transaction volumes with sub-second latency (**Senior Data Engineer/Scientist**).
-* 🧠 [**Soul Machines**](https://www.soulmachines.com/) – **Architected** conversational AI for hyper-realistic "Digital People," enhancing student engagement via sentiment-aware interaction models (**Senior ML Engineer**).
-* 🔐 [**Sapient Logic (Cybersecurity)**](https://sapientlogic.com/) – **Developed** semantic similarity engines mapping cyber threats to the MITRE ATT&CK framework for automated defense (**Senior ML Engineer**).
-* 📊 [**DeepChannel**](https://www.deepchannel.com/) – **Optimized** custom ETL pipelines and data warehousing solutions for high-performance, sub-second analytics (**Senior AI/ML Engineer**).
-* 🔍 [**DQLabs**](https://www.dqlabs.ai/) – **Engineered** Deep Learning solutions for automated data quality assurance and semantic type detection across massive datasets (**Senior AI/ML Engineer**).
-* 📈 [**EMCA**](https://www.emca-online.eu/) – **Deployed** advanced time-series forecasting models for real-time operational anomaly detection and resource optimization (**Senior ML Engineer**).
-* � [**Plus One Company**](https://plusonecompany.com/) – **Implemented** an NLP-powered call analysis platform extracting actionable business intelligence from voice data at scale (**Senior ML Engineer**).
+- 🕵️‍♀️ [**Memetica**](https://memetica.co/) – **Designed scalable** threat intelligence infrastructure and digital investigation pipelines for real-time tracking of disinformation (**Senior Data Engineer**).
+- 🛡️ [**Sapient Logic (COMET & POLAR)**](https://sapientlogic.com/) – **Technical Lead** for mission-critical military intelligence systems and tactical mobile OCR solutions for the DoD (**AI/ML Tech Lead**).
+- 🎓 [**Collegis Education**](https://collegiseducation.com/) – **Optimized** higher education analytics engines using real-time GCP data pipelines and predictive modeling for enrollment growth (**Senior Data Engineer/Scientist**).
+- 📦 [**Inxeption**](http://inxeptionpay.com/) – **Engineered** logistics pricing engines and vendor management systems processing massive transaction volumes with sub-second latency (**Senior Data Engineer/Scientist**).
+- 🧠 [**Soul Machines**](https://www.soulmachines.com/) – **Architected** conversational AI for hyper-realistic "Digital People," enhancing student engagement via sentiment-aware interaction models (**Senior ML Engineer**).
+- 🔐 [**Sapient Logic (Cybersecurity)**](https://sapientlogic.com/) – **Developed** semantic similarity engines mapping cyber threats to the MITRE ATT&CK framework for automated defense (**Senior ML Engineer**).
+- 📊 [**DeepChannel**](https://www.deepchannel.com/) – **Optimized** custom ETL pipelines and data warehousing solutions for high-performance, sub-second analytics (**Senior AI/ML Engineer**).
+- 🔍 [**DQLabs**](https://www.dqlabs.ai/) – **Engineered** Deep Learning solutions for automated data quality assurance and semantic type detection across massive datasets (**Senior AI/ML Engineer**).
+- 📈 [**EMCA**](https://www.emca-online.eu/) – **Deployed** advanced time-series forecasting models for real-time operational anomaly detection and resource optimization (**Senior ML Engineer**).
+- 📞 [**Plus One Company**](https://plusonecompany.com/) – **Implemented** an NLP-powered call analysis platform extracting actionable business intelligence from voice data at scale (**Senior ML Engineer**).
 
 ---
 
-### Languages and Tools
+## Languages and Tools
 
-#### Generative AI & LLM Utilities
+### Generative AI & LLM Utilities
 
 [![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)](https://langchain.com)
 [![LlamaIndex](https://img.shields.io/badge/LlamaIndex-121212?style=flat&logo=llamaindex&logoColor=white)](https://www.llamaindex.ai/)
@@ -72,7 +73,7 @@
 [![Ragas](https://img.shields.io/badge/Ragas-Evaluation-FF4F00?style=flat)](https://docs.ragas.io/)
 [![Arize](https://img.shields.io/badge/Arize_Phoenix-LLM_Eval-8000FF?style=flat)](https://arize.com/)
 
-#### Computer Vision & Robotics
+### Computer Vision & Robotics
 
 [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)](https://opencv.org/)
 [![Encord](https://img.shields.io/badge/Encord-AI_Data_Ops-000000?style=flat)](https://encord.com/)
@@ -81,7 +82,7 @@
 [![YOLO](https://img.shields.io/badge/YOLO-Object_Detection-00FFFF?style=flat)](https://pjreddie.com/darknet/yolo/)
 [![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)](https://www.mathworks.com/)
 
-#### Data Science & Machine Learning
+### Data Science & Machine Learning
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org)
@@ -90,7 +91,7 @@
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org/)
 
-#### Cloud, MLOps & Data
+### Cloud, MLOps & Data
 
 [![Metaflow](https://img.shields.io/badge/Metaflow-ML_Workflows-000000?style=flat)](https://metaflow.org/)
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com)
@@ -106,7 +107,7 @@
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
 
-#### Full Stack Development
+### Full Stack Development
 
 [![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://reactjs.org)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://typescriptlang.org)
