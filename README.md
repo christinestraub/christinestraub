@@ -15,13 +15,13 @@
 [![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat&logo=keras&logoColor=white)](https://keras.io)
 [![GPU](https://img.shields.io/badge/GPU-76B900?style=flat&logo=nvidia&logoColor=white)](https://developer.nvidia.com/cuda-zone)
 
-> I'm a Lead AI/ML Engineer specializing in document intelligence: OCR, layout inference, and VLM-based extraction pipelines that turn unstructured documents (deeds, liens, mortgages, court dockets, medical records, 10-K filings) into structured, trustworthy data for LLM systems. 8+ years shipping enterprise-grade AI solutions, with merged contributions across 7 repositories in the Unstructured ecosystem.
+> I'm a Lead AI/ML Engineer with 8+ years building production AI systems across document intelligence, multi-agent workflows, reinforcement learning/evaluation, speech analytics, computer vision, and MLOps. My work focuses on turning messy real-world data — documents, speech, images, operational logs, and enterprise records — into structured, reliable intelligence for LLM and decision-support systems. I've shipped OCR/layout pipelines, VLM extraction systems, RAG and agentic workflows, speech/NLP analytics, model evaluation harnesses, and cloud-native ML infrastructure, with merged contributions across 7 repositories in the Unstructured ecosystem.
 >
-> - **Document Intelligence:** OCR (PaddleOCR, Tesseract), layout analysis, VLM extraction (Gemini, Qwen3-VL), intelligent document processing, schema enforcement, Unstructured OSS
-> - **RL & Agents:** Multi-agent orchestration, agent evaluation (RL environments, deterministic verifiers, benchmarks), RLHF, reward modeling, agent reasoning & tool use
-> - **Advanced Generative AI:** Multimodal VLMs, advanced reasoning models, RAG, prompt caching & optimization, long-context processing
-> - **Computer Vision:** Enterprise-scale vision solutions
-> - **MLOps & Infrastructure:** Production-grade ML systems and infrastructure
+> - **Document Intelligence:** OCR, layout analysis, VLM extraction, schema enforcement, intelligent document processing, Unstructured OSS, PaddleOCR, Tesseract, Gemini, Qwen3-VL
+> - **Multi-Agent Systems & RL:** Agent orchestration, RL environments, deterministic verifiers, reward modeling, RLHF, agent reasoning, tool use, benchmark design, and evaluation workflows
+> - **Speech Analytics & NLP:** Speech-to-text pipelines, segmentation, sentiment analysis, BERT-based classification, conversational intelligence, and voice-data extraction
+> - **Generative AI & LLM Systems:** RAG, multimodal VLMs, long-context processing, prompt optimization, structured outputs, model routing, and LLM/VLM productization
+> - **Computer Vision & MLOps:** Production vision systems, GPU inference, model serving, cloud ML pipelines, BigQuery/GCP, Kubernetes, Kafka, and production-grade ML infrastructure
 
 🌐 [Portfolio](https://christinemstraub.com) | 📝 [Notion Portfolio](https://christinestraub.notion.site/Christine-Straub-ML-Portfolio-2f328fbe27068053b029f28ffe86cde9) | 📧 [Email](mailto:christinestraubdev@gmail.com) | 👔 [LinkedIn](https://www.linkedin.com/in/straubchristine/)
 
