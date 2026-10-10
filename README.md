@@ -1,3 +1,5 @@
+<!-- Owner: Christine Straub. Last reviewed: 2026-10-10.
+     Review triggers: role change, new OSS milestone, portfolio redesign, job search start or end. -->
 <p align="center">
   <img src="profile-banner.png" width="100%" alt="Christine Straub | Models that learn. Agents that ship. Systems that hold up in the real world." />
 </p>
@@ -106,7 +108,7 @@ Computer vision and robotics for industrial automation: **10M+ images/day**, **7
 
 ### 🤖 Generative AI & Product Engineering
 
-- 📄 [**Unstructured.io**](https://github.com/Unstructured-IO) – **Engineered** high-throughput data extraction pipelines for LLM ingestion, processing millions of complex documents with state-of-the-art layout analysis (**Senior AI/ML Engineer**).
+- 📄 [**Unstructured.io**](https://github.com/Unstructured-IO) – **Engineered** high-throughput data extraction pipelines for LLM ingestion, processing millions of complex documents with state-of-the-art layout analysis (**Senior Machine Learning Engineer**).
 - 🏙️ [**Duxre**](https://duxre.com/) – **Architected** the DASH Chatbot’s multi-agent RAG engine, enabling complex CRE task orchestration and streamlining asset analysis through intelligent automation and evaluation (**AI/ML Tech Lead**).
 - ✍️ [**Averi AI**](https://www.averi.ai/) – **Developed** a GenAI marketing copilot leveraging LLMs for automated content optimization and brand-aligned strategy generation (**AI/ML Tech Lead**).
 - 🗣️ [**Speechlabs**](https://www.speechlab.ai/) – **Advanced** NLU capabilities for next-gen audio analysis, implementing high-accuracy sentiment tracking and speech processing pipelines (**Senior Software Architect**).
@@ -116,8 +118,8 @@ Computer vision and robotics for industrial automation: **10M+ images/day**, **7
 
 ### 👁️ Computer Vision & AI
 
-- 🏛️ [**Medici Land Governance**](https://mediciland.com/) – **Working on** blockchain-based land administration, high-volume Intelligent Document Processing (IDP) systems (**Senior ML Engineer**).
-- 🤖 [**RIOS AI**](https://rios.ai/) – **Built production MLOps pipelines** for industrial robotics, orchestrating real-time video anomaly detection and closing the data-to-annotation loop (**Senior ML Engineer**).
+- 🏛️ [**Medici Land Governance**](https://mediciland.com/) – **Working on** blockchain-based land administration, high-volume Intelligent Document Processing (IDP) systems (**Lead AI and Machine Learning Engineer**).
+- 🤖 [**RIOS AI**](https://rios.ai/) – **Built production MLOps pipelines** for industrial robotics, orchestrating real-time video anomaly detection and closing the data-to-annotation loop (**Senior Machine Learning Engineer**).
 - 🍍 [**Eastern Kentucky University**](https://www.eku.edu/) – **Pioneered** drone-based Computer Vision systems for agricultural spatial analytics, optimizing crop yields in developing regions (**Senior ML Engineer**).
 - 🧬 [**Specific Diagnostics**](https://www.sbir.gov/portfolio/406405) – **Accelerated** bacterial infection diagnostics using AI-powered computer vision and high-precision signal processing (**Senior ML Engineer**).
 
@@ -129,7 +131,7 @@ Computer vision and robotics for industrial automation: **10M+ images/day**, **7
 - 📦 [**Inxeption**](http://inxeptionpay.com/) – **Engineered** logistics pricing engines and vendor management systems processing massive transaction volumes with sub-second latency (**Senior Data Engineer/Scientist**).
 - 🧠 [**Soul Machines**](https://www.soulmachines.com/) – **Architected** conversational AI for hyper-realistic "Digital People," enhancing student engagement via sentiment-aware interaction models (**Senior ML Engineer**).
 - 🔐 [**Sapient Logic (Cybersecurity)**](https://sapientlogic.com/) – **Developed** semantic similarity engines mapping cyber threats to the MITRE ATT&CK framework for automated defense (**Senior ML Engineer**).
-- 📊 [**DeepChannel**](https://www.deepchannel.com/) – **Optimized** custom ETL pipelines and data warehousing solutions for high-performance, sub-second analytics (**Senior AI/ML Engineer**).
+- 📊 **DeepChannel** – **Optimized** custom ETL pipelines and data warehousing solutions for high-performance, sub-second analytics (**Senior AI/ML Engineer**).
 - 🔍 [**DQLabs**](https://www.dqlabs.ai/) – **Engineered** Deep Learning solutions for automated data quality assurance and semantic type detection across massive datasets (**Senior AI/ML Engineer**).
 - 📈 [**EMCA**](https://www.emca-online.eu/) – **Deployed** advanced time-series forecasting models for real-time operational anomaly detection and resource optimization (**Senior ML Engineer**).
 - 📞 [**Plus One Company**](https://plusonecompany.com/) – **Implemented** an NLP-powered call analysis platform extracting actionable business intelligence from voice data at scale (**Senior ML Engineer**).
@@ -231,7 +233,7 @@ Machine Learning Specialization (Stanford) · Deep Learning Specialization (Deep
 
 I'm interested in conversations around reinforcement learning, computer vision, evaluation infrastructure, and production multi-agent systems.
 
-🌐 [Portfolio](https://christinemstraub.com) | 📝 [Notion Portfolio](https://christinestraub.notion.site/Christine-Straub-ML-Portfolio-2f328fbe27068053b029f28ffe86cde9) | 📧 [Email](mailto:christinemstraub@gmail.com) | 👔 [LinkedIn](https://www.linkedin.com/in/straubchristine/)
+🌐 [Portfolio (start here)](https://christinemstraub.com) | 📝 [Notion (case-study archive)](https://christinestraub.notion.site/Christine-Straub-ML-Portfolio-2f328fbe27068053b029f28ffe86cde9) | 📧 [Email](mailto:christinemstraub@gmail.com) | 👔 [LinkedIn](https://www.linkedin.com/in/straubchristine/)
 
 <p align="center">
   <sub>Models that learn. Agents that ship. Systems that hold up in the real world.</sub>
