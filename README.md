@@ -88,23 +88,23 @@ I've built RL training and evaluation infrastructure, real-time vision systems f
 
 ## 💼 Experience
 
-### Lead Reinforcement Learning Engineer and Machine Learning Engineer · Bespokelabs AI
+### Lead Reinforcement Learning Engineer and Machine Learning Engineer · [Bespokelabs AI](https://bespokelabs.ai/)
 
 RL environments and evaluation infrastructure for coding agents: realistic task specs, reward signals, deterministic verifiers, and rollout analysis for failure modes and reward hacking.
 
-### Senior Machine Learning Engineer · Unstructured IO
+### Senior Machine Learning Engineer · [Unstructured IO](https://unstructured.io/)
 
 Enterprise document processing and agentic workflows: multimodal extraction pipelines, MCP-based tool use, verifier functions, and reproducible benchmark tasks, with **500+ PRs reviewed** and **500+ production bugs resolved** across the open-source ecosystem.
 
-### Lead AI and Machine Learning Engineer · Medici Land Governance
+### Lead AI and Machine Learning Engineer · [Medici Land Governance](https://mediciland.com/)
 
 Document intelligence for high-stakes legal and enterprise documents: hybrid OCR → VLM extraction with confidence-scored review and benchmark-driven evaluation.
 
-### 🤖 Senior Machine Learning Engineer · RIOS Intelligent Machines
+### 🤖 Senior Machine Learning Engineer · [RIOS Intelligent Machines](https://rios.ai/)
 
 Computer vision and robotics for industrial automation: **10M+ images/day**, **70% deployment-time reduction** through MLOps automation, GPU and edge optimization.
 
-### 📈 Software Engineer · Moody's Analytics
+### 📈 Software Engineer · [Moody's Analytics](https://www.moodys.com/)
 
 Catastrophe risk modeling and location intelligence platforms for insurance and financial services clients: built client-facing features for RMS(one), RiskLink, and RiskBrowser, enabling catastrophe risk assessment and portfolio analysis on multi-billion dollar portfolios. Java, TypeScript, Python, geospatial visualization, and data pipelines.
 
