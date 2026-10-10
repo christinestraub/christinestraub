@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile-banner.png" width="100%" alt="Christine Straub — from pre-training to production: models and agents that hold up in the real world" />
+  <img src="profile-banner.png" width="100%" alt="Christine Straub | From pre-training to production: models and agents that hold up in the real world" />
 </p>
 
 <h1 align="center">Christine Straub</h1>
@@ -31,11 +31,11 @@
 
 ## 👋 About Me
 
-> I work across the full model lifecycle — **pre-training, post-training, and fine-tuning** — and ship the **evaluation and infrastructure layers** that make AI systems hold up in the real world.
+> I work across the full model lifecycle (**pre-training, post-training, and fine-tuning**) and ship the **evaluation and infrastructure layers** that make AI systems hold up in the real world.
 
 I'm a Lead ML/AI Engineer with 9+ years of experience shipping production AI systems across defense, healthcare, and enterprise software, including work connected to classified DoD programs and HIPAA-regulated environments. My deepest focus areas are reinforcement learning (SFT/DPO/GRPO, RL environment curation, deterministic verifiers), document intelligence (OCR, layout inference, VLM extraction), and multi-agentic workflows that plan, call tools, and hand off work reliably in production.
 
-I've built RL training and evaluation infrastructure, OCR/layout pipelines processing millions of documents, RAG and agentic systems, speech/NLP analytics, model evaluation harnesses, and high-throughput inference systems — with merged contributions across 7 repositories in the Unstructured ecosystem.
+I've built RL training and evaluation infrastructure, OCR/layout pipelines processing millions of documents, RAG and agentic systems, speech/NLP analytics, model evaluation harnesses, and high-throughput inference systems, with merged contributions across 7 repositories in the Unstructured ecosystem.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Experience-9%2B_Years-0EA5E9?style=for-the-badge" alt="9+ years of experience" />
@@ -64,7 +64,7 @@ I've built RL training and evaluation infrastructure, OCR/layout pipelines proce
 
 > ### 📄 Unstructured Ecosystem
 >
-> Merged contributions across **7 repositories** in the [Unstructured](https://github.com/Unstructured-IO) ecosystem — the open-source standard for turning complex enterprise documents into LLM-ready data.
+> Merged contributions across **7 repositories** in the [Unstructured](https://github.com/Unstructured-IO) ecosystem, the open-source standard for turning complex enterprise documents into LLM-ready data.
 
 <p align="center">
   <a href="https://github.com/search?q=org%3AUnstructured-IO+author%3Achristinestraub&type=pullrequests">
@@ -76,19 +76,19 @@ I've built RL training and evaluation infrastructure, OCR/layout pipelines proce
 
 ### 🎯 Lead AI/ML Engineer · Bespokelabs AI
 
-RL environments and evaluation infrastructure for coding agents — realistic task specs, reward signals, deterministic verifiers, and rollout analysis for failure modes and reward hacking.
+RL environments and evaluation infrastructure for coding agents: realistic task specs, reward signals, deterministic verifiers, and rollout analysis for failure modes and reward hacking.
 
 ### 📄 Senior AI/ML Engineer · Unstructured IO
 
-Enterprise document processing and agentic workflows — multimodal extraction pipelines, MCP-based tool use, verifier functions, and reproducible benchmark tasks.
+Enterprise document processing and agentic workflows: multimodal extraction pipelines, MCP-based tool use, verifier functions, and reproducible benchmark tasks.
 
 ### 🏛️ Lead AI/ML Engineer · Medici Land Governance
 
-Document intelligence for high-stakes legal and enterprise documents — hybrid OCR → VLM extraction with confidence-scored review and benchmark-driven evaluation.
+Document intelligence for high-stakes legal and enterprise documents: hybrid OCR → VLM extraction with confidence-scored review and benchmark-driven evaluation.
 
 ### 🤖 Senior ML Engineer · RIOS Intelligent Machines
 
-Computer vision and robotics for industrial automation — **10M+ images/day**, **70% deployment-time reduction** through MLOps automation, GPU and edge optimization.
+Computer vision and robotics for industrial automation: **10M+ images/day**, **70% deployment-time reduction** through MLOps automation, GPU and edge optimization.
 
 ## 🚀 Selected Work
 
@@ -102,18 +102,18 @@ Computer vision and robotics for industrial automation — **10M+ images/day**, 
     </td>
     <td width="50%" valign="top">
       <h3>🎯 <a href="https://github.com/christinestraub/web-search-agent-evals">web-search-agent-evals</a></h3>
-      <p>Evaluation harness for web-search agents — reproducible benchmarks, scoring, and failure-mode analysis.</p>
+      <p>Evaluation harness for web-search agents: reproducible benchmarks, scoring, and failure-mode analysis.</p>
       <p>Agent Evals · TypeScript · Benchmarking</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏙️ <a href="https://duxre.com/">Duxre — DASH Chatbot</a></h3>
-      <p>Multi-agent RAG engine for commercial real estate — complex task orchestration, asset analysis, and intelligent automation with built-in evaluation.</p>
+      <h3>🏙️ <a href="https://duxre.com/">Duxre · DASH Chatbot</a></h3>
+      <p>Multi-agent RAG engine for commercial real estate: complex task orchestration, asset analysis, and intelligent automation with built-in evaluation.</p>
       <p>Multi-Agent · RAG · CRE</p>
     </td>
     <td width="50%" valign="top">
-      <h3>🛡️ <a href="https://sapientlogic.com/">Sapient Logic — COMET & POLAR</a></h3>
+      <h3>🛡️ <a href="https://sapientlogic.com/">Sapient Logic · COMET & POLAR</a></h3>
       <p>Mission-critical military intelligence systems and tactical mobile OCR for the DoD. Technical lead across both programs.</p>
       <p>Defense · Tactical OCR · Classified Programs</p>
     </td>
@@ -124,7 +124,7 @@ Computer vision and robotics for industrial automation — **10M+ images/day**, 
 
 ## 🧭 Current Focus
 
-> I'm focused on **RL environment design, deterministic verifiers, and evaluation infrastructure for agentic systems** — the layers that decide whether an agent is actually ready for production. Open to remote Reinforcement Learning, Post-Training, Document Intelligence, and Agentic AI roles.
+> I'm focused on **RL environment design, deterministic verifiers, and evaluation infrastructure for agentic systems**, the layers that decide whether an agent is actually ready for production. Open to remote Reinforcement Learning, Post-Training, Document Intelligence, and Agentic AI roles.
 
 ## 🧰 Technical Skills
 
@@ -179,5 +179,5 @@ I'm interested in conversations around reinforcement learning, post-training, ev
 - Notion: [ML Portfolio](https://christinestraub.notion.site/ml)
 
 <p align="center">
-  <sub>From pre-training to production — systems that hold up in the real world.</sub>
+  <sub>From pre-training to production: systems that hold up in the real world.</sub>
 </p>
