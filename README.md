@@ -78,7 +78,7 @@ I've built RL training and evaluation infrastructure, real-time vision systems f
 
 > ### 📄 Unstructured Ecosystem
 >
-> Merged contributions across **7 repositories** in the [Unstructured](https://github.com/Unstructured-IO) ecosystem, the open-source standard for turning complex enterprise documents into LLM-ready data.
+> Merged contributions across **7 repositories** in the [Unstructured](https://github.com/Unstructured-IO) ecosystem, the open-source standard for turning complex enterprise documents into LLM-ready data, with **500+ PRs reviewed** and **500+ production bugs resolved**.
 
 <p align="center">
   <a href="https://github.com/search?q=org%3AUnstructured-IO+author%3Achristinestraub&type=pullrequests">
@@ -94,7 +94,7 @@ RL environments and evaluation infrastructure for coding agents: realistic task 
 
 ### Senior Machine Learning Engineer · Unstructured IO
 
-Enterprise document processing and agentic workflows: multimodal extraction pipelines, MCP-based tool use, verifier functions, and reproducible benchmark tasks.
+Enterprise document processing and agentic workflows: multimodal extraction pipelines, MCP-based tool use, verifier functions, and reproducible benchmark tasks, with **500+ PRs reviewed** and **500+ production bugs resolved** across the open-source ecosystem.
 
 ### Lead AI and Machine Learning Engineer · Medici Land Governance
 
@@ -106,7 +106,7 @@ Computer vision and robotics for industrial automation: **10M+ images/day**, **7
 
 ### 📈 Software Engineer · Moody's Analytics
 
-Catastrophe risk modeling and location intelligence platforms for insurance and financial services clients: built client-facing features for RMS(one), RiskLink, and RiskBrowser, enabling catastrophe risk assessment and portfolio analysis on multi-billion dollar portfolios. Java, TypeScript, Python, geospatial visualization, and data pipelines, with **500+ PRs reviewed** and **300+ production bugs resolved** across production systems.
+Catastrophe risk modeling and location intelligence platforms for insurance and financial services clients: built client-facing features for RMS(one), RiskLink, and RiskBrowser, enabling catastrophe risk assessment and portfolio analysis on multi-billion dollar portfolios. Java, TypeScript, Python, geospatial visualization, and data pipelines.
 
 ## 🏆 Key Projects & Impact
 
