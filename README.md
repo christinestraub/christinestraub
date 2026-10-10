@@ -117,36 +117,6 @@ Document intelligence for high-stakes legal and enterprise documents: hybrid OCR
 
 Computer vision and robotics for industrial automation: **10M+ images/day**, **70% deployment-time reduction** through MLOps automation, GPU and edge optimization.
 
-## 🚀 Selected Work
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📄 <a href="https://github.com/Unstructured-IO">Unstructured.io</a></h3>
-      <p>High-throughput document extraction pipelines for LLM ingestion, processing millions of complex documents with state-of-the-art layout analysis.</p>
-      <p><strong>Merged PRs across 7 repos</strong> · Document AI · Python</p>
-      <a href="https://github.com/search?q=org%3AUnstructured-IO+author%3Achristinestraub&type=pullrequests">View contributions →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎯 <a href="https://github.com/christinestraub/web-search-agent-evals">web-search-agent-evals</a></h3>
-      <p>Evaluation harness for web-search agents: reproducible benchmarks, scoring, and failure-mode analysis.</p>
-      <p>Agent Evals · TypeScript · Benchmarking</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏙️ <a href="https://duxre.com/">Duxre · DASH Chatbot</a></h3>
-      <p>Multi-agent RAG engine for commercial real estate: complex task orchestration, asset analysis, and intelligent automation with built-in evaluation.</p>
-      <p>Multi-Agent · RAG · CRE</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🛡️ <a href="https://sapientlogic.com/">Sapient Logic · COMET & POLAR</a></h3>
-      <p>Mission-critical military intelligence systems and tactical mobile OCR for the DoD. Technical lead across both programs.</p>
-      <p>Defense · Tactical OCR · Classified Programs</p>
-    </td>
-  </tr>
-</table>
-
 ## 🏆 Key Projects & Impact
 
 ### 🤖 Generative AI & Product Engineering
