@@ -48,6 +48,22 @@
 
 ---
 
+## 🔬 Engineering Focus
+
+<table>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <img src="focus-post-training.png" width="100%" alt="Post-training and RL: reward curve converging across SFT, DPO, and GRPO stages" />
+    </td>
+    <td width="33%" align="center" valign="top">
+      <img src="focus-computer-vision.png" width="100%" alt="Computer vision: detection frame with confidence-scored regions at 10M+ images per day" />
+    </td>
+    <td width="33%" align="center" valign="top">
+      <img src="focus-agent-systems.png" width="100%" alt="Multi-agentic systems: planner, search, tools, verify, and ship nodes with a retry loop" />
+    </td>
+  </tr>
+</table>
+
 ## 👋 About Me
 
 > I work across the full model lifecycle (**pre-training, post-training, and fine-tuning**) and ship the **evaluation and infrastructure layers** that make AI systems hold up in the real world.
@@ -70,22 +86,6 @@ I've built RL training and evaluation infrastructure, real-time vision systems f
   <img src="https://img.shields.io/badge/Doc_AI-95%25%2B_Extraction_Accuracy-F59E0B?style=for-the-badge" alt="95%+ extraction accuracy in document intelligence" />
   <img src="https://img.shields.io/badge/Infra_Cost-80%25_Reduction-8B5CF6?style=for-the-badge" alt="80% infrastructure cost reduction" />
 </p>
-
-## 🔬 Engineering Focus
-
-<table>
-  <tr>
-    <td width="33%" align="center" valign="top">
-      <img src="focus-post-training.png" width="100%" alt="Post-training and RL: reward curve converging across SFT, DPO, and GRPO stages" />
-    </td>
-    <td width="33%" align="center" valign="top">
-      <img src="focus-computer-vision.png" width="100%" alt="Computer vision: detection frame with confidence-scored regions at 10M+ images per day" />
-    </td>
-    <td width="33%" align="center" valign="top">
-      <img src="focus-agent-systems.png" width="100%" alt="Multi-agentic systems: planner, search, tools, verify, and ship nodes with a retry loop" />
-    </td>
-  </tr>
-</table>
 
 ## 🌍 Open Source
 
