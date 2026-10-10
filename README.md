@@ -9,6 +9,10 @@
 </p>
 
 <p align="center">
+  📍 San Clemente, California · 🤖 Technical Lead, Machine Learning Engineer · 🚀 9+ Years
+</p>
+
+<p align="center">
   I build training and evaluation infrastructure that makes models and agents reliable in production.
 </p>
 
@@ -27,15 +31,38 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" /></a>
+  <a href="https://pytorch.org"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch" /></a>
+  <a href="https://tensorflow.org"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" /></a>
+  <a href="https://typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" /></a>
+  <a href="https://reactjs.org"><img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" /></a>
+  <a href="https://docker.com"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" /></a>
+  <a href="https://kubernetes.io"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes" /></a>
+  <a href="https://cloud.google.com"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="GCP" /></a>
+  <a href="https://aws.amazon.com"><img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS" /></a>
+  <a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Machine Learning" /></a>
+  <a href="https://keras.io"><img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat&logo=keras&logoColor=white" alt="Deep Learning" /></a>
+  <a href="https://developer.nvidia.com/cuda-zone"><img src="https://img.shields.io/badge/GPU-76B900?style=flat&logo=nvidia&logoColor=white" alt="GPU" /></a>
+</p>
+
 ---
 
 ## 👋 About Me
 
 > I work across the full model lifecycle (**pre-training, post-training, and fine-tuning**) and ship the **evaluation and infrastructure layers** that make AI systems hold up in the real world.
 
-I'm a Lead ML/AI Engineer with 9+ years of experience shipping production AI systems across defense, healthcare, and enterprise software, including work connected to classified DoD programs and HIPAA-regulated environments. My deepest focus areas are reinforcement learning (SFT/DPO/GRPO, RL environment curation, deterministic verifiers), document intelligence (OCR, layout inference, VLM extraction), and multi-agentic workflows that plan, call tools, and hand off work reliably in production.
+I'm a Lead ML/AI Engineer with 9+ years of experience shipping production AI systems across defense, healthcare, and enterprise software, including work connected to classified DoD programs and HIPAA-regulated environments. I focus on turning messy real-world data (documents, speech, images, operational logs, and enterprise records) into structured, reliable intelligence for LLM and decision-support systems. My deepest focus areas are reinforcement learning (SFT/DPO/GRPO, RL environment curation, deterministic verifiers), document intelligence (OCR, layout inference, VLM extraction), and multi-agentic workflows that plan, call tools, and hand off work reliably in production.
 
 I've built RL training and evaluation infrastructure, OCR/layout pipelines processing millions of documents, RAG and agentic systems, speech/NLP analytics, model evaluation harnesses, and high-throughput inference systems, with merged contributions across 7 repositories in the Unstructured ecosystem.
+
+- **Document Intelligence:** OCR, layout analysis, VLM extraction, schema enforcement, intelligent document processing, Unstructured OSS, PaddleOCR, Tesseract, Gemini, Qwen3-VL
+- **Post-Training & RL:** SFT, DPO, online RL/GRPO, RL environment curation, difficulty calibration, reward modeling, deterministic verifiers, and model-based RL environments
+- **Agent Systems & Evaluation:** Multi-agent orchestration, LLM routing, agent training, tool use, benchmark development, data curation at scale, evaluation pipelines, and LLMOps/MLOps
+- **Speech Analytics & NLP:** Speech-to-text pipelines, segmentation, sentiment analysis, BERT-based classification, conversational intelligence, and voice-data extraction
+- **Generative AI & LLM Systems:** RAG, multimodal VLMs, long-context processing, prompt optimization, structured outputs, model routing, and LLM/VLM productization
+- **LLM Training & Inference Infrastructure:** DeepSpeed, Megatron-LM, SGLang, vLLM, TensorRT-LLM, distributed training/inference, tensor/pipeline/expert parallelism, continuous batching, KV cache optimization, quantization, and API serving
+- **Computer Vision & MLOps:** Production vision systems, GPU inference, model serving, cloud ML pipelines, BigQuery/GCP, Kubernetes, Kafka, and production-grade ML infrastructure
 
 <p align="center">
   <img src="https://img.shields.io/badge/Experience-9%2B_Years-0EA5E9?style=for-the-badge" alt="9+ years of experience" />
@@ -120,7 +147,37 @@ Computer vision and robotics for industrial automation: **10M+ images/day**, **7
   </tr>
 </table>
 
-**More applied work:** 🤖 [RIOS AI](https://rios.ai/) industrial robotics MLOps · 🕸️ [Araya](https://araya.app/) healthcare EMR knowledge graphs · 🗣️ [Speechlab](https://www.speechlab.ai/) speech analytics · 🇺🇸 MyRuck AI veterans' benefits automation
+## 🏆 Key Projects & Impact
+
+### 🤖 Generative AI & Product Engineering
+
+- 📄 [**Unstructured.io**](https://github.com/Unstructured-IO) – **Engineered** high-throughput data extraction pipelines for LLM ingestion, processing millions of complex documents with state-of-the-art layout analysis (**Senior AI/ML Engineer**).
+- 🏙️ [**Duxre**](https://duxre.com/) – **Architected** the DASH Chatbot’s multi-agent RAG engine, enabling complex CRE task orchestration and streamlining asset analysis through intelligent automation and evaluation (**AI/ML Tech Lead**).
+- ✍️ [**Averi AI**](https://www.averi.ai/) – **Developed** a GenAI marketing copilot leveraging LLMs for automated content optimization and brand-aligned strategy generation (**AI/ML Tech Lead**).
+- 🗣️ [**Speechlabs**](https://www.speechlab.ai/) – **Advanced** NLU capabilities for next-gen audio analysis, implementing high-accuracy sentiment tracking and speech processing pipelines (**Senior Software Architect**).
+- 🕸️ [**Araya**](https://araya.app/login) – **Architected** an **AI-driven healthcare EMR system**, implementing Knowledge Graphs and semantic search to unlock latent clinical insights from enterprise-scale unstructured medical data (**AI/ML Tech Lead**).
+- 🇺🇸 **MyRuck AI** – **Spearheaded** a full-stack HR automation platform connecting veterans to benefits via intelligent RAG-driven government API integrations (**AI/ML Tech Lead**).
+- 🎓 **WeStepForward** – **Built** adaptive exam preparation platforms featuring personalized, AI-driven learning paths and retrieval-augmented study aids (**AI/ML Tech Lead**).
+
+### 👁️ Computer Vision & AI
+
+- 🏛️ [**Medici Land Governance**](https://mediciland.com/) – **Working on** blockchain-based land administration, high-volume Intelligent Document Processing (IDP) systems (**Senior ML Engineer**).
+- 🤖 [**RIOS AI**](https://rios.ai/) – **Built production MLOps pipelines** for industrial robotics, orchestrating real-time video anomaly detection and closing the data-to-annotation loop (**Senior ML Engineer**).
+- 🍍 [**Eastern Kentucky University**](https://www.eku.edu/) – **Pioneered** drone-based Computer Vision systems for agricultural spatial analytics, optimizing crop yields in developing regions (**Senior ML Engineer**).
+- 🧬 [**Specific Diagnostics**](https://www.sbir.gov/portfolio/406405) – **Accelerated** bacterial infection diagnostics using AI-powered computer vision and high-precision signal processing (**Senior ML Engineer**).
+
+### ⚙️ Advanced MLOps, Production Data Engineering, Machine Learning
+
+- 🕵️‍♀️ [**Memetica**](https://memetica.co/) – **Designed scalable** threat intelligence infrastructure and digital investigation pipelines for real-time tracking of disinformation (**Senior Data Engineer**).
+- 🛡️ [**Sapient Logic (COMET & POLAR)**](https://sapientlogic.com/) – **Technical Lead** for mission-critical military intelligence systems and tactical mobile OCR solutions for the DoD (**AI/ML Tech Lead**).
+- 🎓 [**Collegis Education**](https://collegiseducation.com/) – **Optimized** higher education analytics engines using real-time GCP data pipelines and predictive modeling for enrollment growth (**Senior Data Engineer/Scientist**).
+- 📦 [**Inxeption**](http://inxeptionpay.com/) – **Engineered** logistics pricing engines and vendor management systems processing massive transaction volumes with sub-second latency (**Senior Data Engineer/Scientist**).
+- 🧠 [**Soul Machines**](https://www.soulmachines.com/) – **Architected** conversational AI for hyper-realistic "Digital People," enhancing student engagement via sentiment-aware interaction models (**Senior ML Engineer**).
+- 🔐 [**Sapient Logic (Cybersecurity)**](https://sapientlogic.com/) – **Developed** semantic similarity engines mapping cyber threats to the MITRE ATT&CK framework for automated defense (**Senior ML Engineer**).
+- 📊 [**DeepChannel**](https://www.deepchannel.com/) – **Optimized** custom ETL pipelines and data warehousing solutions for high-performance, sub-second analytics (**Senior AI/ML Engineer**).
+- 🔍 [**DQLabs**](https://www.dqlabs.ai/) – **Engineered** Deep Learning solutions for automated data quality assurance and semantic type detection across massive datasets (**Senior AI/ML Engineer**).
+- 📈 [**EMCA**](https://www.emca-online.eu/) – **Deployed** advanced time-series forecasting models for real-time operational anomaly detection and resource optimization (**Senior ML Engineer**).
+- 📞 [**Plus One Company**](https://plusonecompany.com/) – **Implemented** an NLP-powered call analysis platform extracting actionable business intelligence from voice data at scale (**Senior ML Engineer**).
 
 ## 🧭 Current Focus
 
@@ -148,20 +205,66 @@ Computer vision and robotics for industrial automation: **10M+ images/day**, **7
 
 `DeepSpeed` `Megatron-LM` `SGLang` `vLLM` `TensorRT-LLM` `Distributed Training` `Continuous Batching` `KV Cache Optimization` `Quantization`
 
-### ☁️ MLOps & Platform
+## 🛠️ Languages and Tools
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![JAX](https://img.shields.io/badge/JAX-00599C?style=flat-square&logo=google&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+### Generative AI & LLM Utilities
 
-`Metaflow` `GPU Inference` `Model Serving` `Cloud ML Pipelines` `BigQuery` `CI/CD`
+[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)](https://langchain.com)
+[![LlamaIndex](https://img.shields.io/badge/LlamaIndex-121212?style=flat&logo=llamaindex&logoColor=white)](https://www.llamaindex.ai/)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co)
+[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)](https://openai.com)
+[![Pinecone](https://img.shields.io/badge/Pinecone-121212?style=flat&logo=pinecone&logoColor=white)](https://www.pinecone.io/)
+[![ChromaDB](https://img.shields.io/badge/ChromaDB-FD6F00?style=flat&logo=chroma&logoColor=white)](https://www.trychroma.com/)
+[![WandB](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=flat&logo=weightsandbiases&logoColor=black)](https://wandb.ai)
+[![Ragas](https://img.shields.io/badge/Ragas-Evaluation-FF4F00?style=flat)](https://docs.ragas.io/)
+[![Arize](https://img.shields.io/badge/Arize_Phoenix-LLM_Eval-8000FF?style=flat)](https://arize.com/)
+
+### Computer Vision & Robotics
+
+[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)](https://opencv.org/)
+[![Encord](https://img.shields.io/badge/Encord-AI_Data_Ops-000000?style=flat)](https://encord.com/)
+[![Roboflow](https://img.shields.io/badge/Roboflow-Platform-6700FF?style=flat)](https://roboflow.com/)
+[![ROS](https://img.shields.io/badge/ROS-Robotics_Middleware-22314E?style=flat&logo=ros&logoColor=white)](https://www.ros.org/)
+[![YOLO](https://img.shields.io/badge/YOLO-Object_Detection-00FFFF?style=flat)](https://pjreddie.com/darknet/yolo/)
+[![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)](https://www.mathworks.com/)
+
+### Data Science & Machine Learning
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://python.org)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)](https://tensorflow.org)
+[![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org/)
+
+### Cloud, MLOps & Data
+
+[![Metaflow](https://img.shields.io/badge/Metaflow-ML_Workflows-000000?style=flat)](https://metaflow.org/)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com)
+[![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)](https://cloud.google.com)
+[![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://docker.com)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)](https://kubernetes.io)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.linux.org/)
+[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)](https://jenkins.io)
+[![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)](https://kafka.apache.org/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
+
+### Full Stack Development
+
+[![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://reactjs.org)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://typescriptlang.org)
+[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)](https://www.java.com/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)](https://www.djangoproject.com/)
+[![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 
 ## 🎓 Education & Credentials
 
@@ -173,10 +276,7 @@ Machine Learning Specialization (Stanford) · Deep Learning Specialization (Deep
 
 I'm interested in conversations around reinforcement learning, post-training, evaluation infrastructure, document intelligence, and production agentic systems.
 
-- Portfolio: [christinemstraub.com](https://christinemstraub.com)
-- Email: [christinemstraub@gmail.com](mailto:christinemstraub@gmail.com)
-- LinkedIn: [straubchristine](https://www.linkedin.com/in/straubchristine/)
-- Notion: [ML Portfolio](https://christinestraub.notion.site/ml)
+🌐 [Portfolio](https://christinemstraub.com) | 📝 [Notion Portfolio](https://christinestraub.notion.site/Christine-Straub-ML-Portfolio-2f328fbe27068053b029f28ffe86cde9) | 📧 [Email](mailto:christinemstraub@gmail.com) | 👔 [LinkedIn](https://www.linkedin.com/in/straubchristine/)
 
 <p align="center">
   <sub>From pre-training to production: systems that hold up in the real world.</sub>
