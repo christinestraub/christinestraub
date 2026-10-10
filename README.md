@@ -106,7 +106,7 @@ Computer vision and robotics for industrial automation: **10M+ images/day**, **7
 
 ### 📈 Software Engineer · [Moody's Analytics](https://www.moodys.com/)
 
-Catastrophe risk modeling and location intelligence platforms for insurance and financial services clients: built client-facing features for RMS(one), RiskLink, and RiskBrowser, enabling catastrophe risk assessment and portfolio analysis on multi-billion dollar portfolios. Java, TypeScript, Python, geospatial visualization, and data pipelines.
+Catastrophe risk modeling and location intelligence platforms for insurance and financial services clients: built client-facing features for RMS(one), RiskLink, and RiskBrowser, enabling catastrophe risk assessment and portfolio analysis on multi-billion dollar portfolios.
 
 ## 🏆 Key Projects & Impact
 
