@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="profile-banner.png" width="100%" alt="Christine Straub | From pre-training to production: models and agents that hold up in the real world" />
+  <img src="profile-banner.png" width="100%" alt="Christine Straub | Models that learn. Agents that ship. Systems that hold up in the real world." />
 </p>
 
 <h1 align="center">Christine Straub</h1>
 
 <p align="center">
-  <strong>Lead ML/AI Engineer | Post-Training & RL | Document Intelligence | Agentic Systems</strong>
+  <strong>Lead ML/AI Engineer | Reinforcement Learning | Computer Vision | Multi-Agentic Systems</strong>
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  I build training and evaluation infrastructure that makes models and agents reliable in production.
+  I build RL environments, computer vision pipelines, and multi-agent systems that survive production.
 </p>
 
 <p align="center">
@@ -52,17 +52,17 @@
 
 > I work across the full model lifecycle (**pre-training, post-training, and fine-tuning**) and ship the **evaluation and infrastructure layers** that make AI systems hold up in the real world.
 
-I'm a Lead ML/AI Engineer with 9+ years of experience shipping production AI systems across defense, healthcare, and enterprise software, including work connected to classified DoD programs and HIPAA-regulated environments. I focus on turning messy real-world data (documents, speech, images, operational logs, and enterprise records) into structured, reliable intelligence for LLM and decision-support systems. My deepest focus areas are reinforcement learning (SFT/DPO/GRPO, RL environment curation, deterministic verifiers), document intelligence (OCR, layout inference, VLM extraction), and multi-agentic workflows that plan, call tools, and hand off work reliably in production.
+I'm a Lead ML/AI Engineer with 9+ years of experience shipping production AI systems across defense, healthcare, and enterprise software, including work connected to classified DoD programs and HIPAA-regulated environments. My deepest focus areas are reinforcement learning (SFT/DPO/GRPO, RL environment curation, deterministic verifiers), computer vision (production detection, segmentation, and OCR/VLM extraction at 10M+ images/day), and multi-agentic workflows that plan, call tools, and hand off work reliably in production.
 
-I've built RL training and evaluation infrastructure, OCR/layout pipelines processing millions of documents, RAG and agentic systems, speech/NLP analytics, model evaluation harnesses, and high-throughput inference systems, with merged contributions across 7 repositories in the Unstructured ecosystem.
+I've built RL training and evaluation infrastructure, real-time vision systems for industrial robotics, OCR/layout pipelines processing millions of documents, RAG and agentic systems, speech/NLP analytics, model evaluation harnesses, and high-throughput inference systems, with merged contributions across 7 repositories in the Unstructured ecosystem.
 
-- **Document Intelligence:** OCR, layout analysis, VLM extraction, schema enforcement, intelligent document processing, Unstructured OSS, PaddleOCR, Tesseract, Gemini, Qwen3-VL
-- **Post-Training & RL:** SFT, DPO, online RL/GRPO, RL environment curation, difficulty calibration, reward modeling, deterministic verifiers, and model-based RL environments
-- **Agent Systems & Evaluation:** Multi-agent orchestration, LLM routing, agent training, tool use, benchmark development, data curation at scale, evaluation pipelines, and LLMOps/MLOps
+- **Reinforcement Learning & Post-Training:** SFT, DPO, online RL/GRPO, RL environment curation, difficulty calibration, reward modeling, deterministic verifiers, and model-based RL environments
+- **Computer Vision:** Production detection and segmentation, OCR/layout analysis, VLM extraction, real-time video analytics, GPU/edge deployment, 10M+ images/day pipelines
+- **Multi-Agentic Systems & Evaluation:** Multi-agent orchestration, LLM routing, agent training, tool use, MCP, benchmark development, data curation at scale, evaluation pipelines, and LLMOps/MLOps
+- **Document Intelligence:** Schema enforcement, intelligent document processing, Unstructured OSS, PaddleOCR, Tesseract, Gemini, Qwen3-VL
 - **Speech Analytics & NLP:** Speech-to-text pipelines, segmentation, sentiment analysis, BERT-based classification, conversational intelligence, and voice-data extraction
 - **Generative AI & LLM Systems:** RAG, multimodal VLMs, long-context processing, prompt optimization, structured outputs, model routing, and LLM/VLM productization
 - **LLM Training & Inference Infrastructure:** DeepSpeed, Megatron-LM, SGLang, vLLM, TensorRT-LLM, distributed training/inference, tensor/pipeline/expert parallelism, continuous batching, KV cache optimization, quantization, and API serving
-- **Computer Vision & MLOps:** Production vision systems, GPU inference, model serving, cloud ML pipelines, BigQuery/GCP, Kubernetes, Kafka, and production-grade ML infrastructure
 
 <p align="center">
   <img src="https://img.shields.io/badge/Experience-9%2B_Years-0EA5E9?style=for-the-badge" alt="9+ years of experience" />
@@ -76,13 +76,13 @@ I've built RL training and evaluation infrastructure, OCR/layout pipelines proce
 <table>
   <tr>
     <td width="33%" align="center" valign="top">
-      <img src="focus-post-training.png" width="100%" alt="Post-training and reinforcement learning focus" />
+      <img src="focus-post-training.png" width="100%" alt="Post-training and RL: reward curve converging across SFT, DPO, and GRPO stages" />
     </td>
     <td width="33%" align="center" valign="top">
-      <img src="focus-document-intelligence.png" width="100%" alt="Document intelligence focus" />
+      <img src="focus-computer-vision.png" width="100%" alt="Computer vision: detection frame with confidence-scored regions at 10M+ images per day" />
     </td>
     <td width="33%" align="center" valign="top">
-      <img src="focus-agent-systems.png" width="100%" alt="Agent systems and evaluation focus" />
+      <img src="focus-agent-systems.png" width="100%" alt="Multi-agentic systems: planner, search, tools, verify, and ship nodes with a retry loop" />
     </td>
   </tr>
 </table>
@@ -181,7 +181,7 @@ Computer vision and robotics for industrial automation: **10M+ images/day**, **7
 
 ## 🧭 Current Focus
 
-> I'm focused on **RL environment design, deterministic verifiers, and evaluation infrastructure for agentic systems**, the layers that decide whether an agent is actually ready for production. Open to remote Reinforcement Learning, Post-Training, Document Intelligence, and Agentic AI roles.
+> I'm focused on **RL environment design, deterministic verifiers, and evaluation infrastructure for agentic systems**, the layers that decide whether an agent is actually ready for production. Open to remote Reinforcement Learning, Post-Training, Computer Vision, and Multi-Agentic Systems roles.
 
 ## 🧰 Technical Skills
 
@@ -189,17 +189,21 @@ Computer vision and robotics for industrial automation: **10M+ images/day**, **7
 
 `SFT` `DPO` `GRPO` `RLHF` `RL Environment Curation` `Deterministic Verifiers` `Reward Modeling` `Difficulty Calibration` `Benchmark Development`
 
+### 👁️ Computer Vision
+
+`Object Detection` `Multi-Object Tracking` `Segmentation` `OCR` `VLM Extraction` `YOLO` `TensorRT` `Edge Deployment` `Real-Time Inference`
+
+### 🤖 Multi-Agentic Systems & Evaluation
+
+`Multi-Agent Orchestration` `MCP` `LLM Routing` `Tool Use` `Agent Training` `Evaluation Pipelines` `Data Curation at Scale` `LLMOps`
+
 ### ✨ Generative AI & LLM Systems
 
 `RAG` `Multimodal VLMs` `Long-Context Processing` `Structured Outputs` `Prompt Optimization` `Model Routing` `LLM/VLM Productization`
 
 ### 📄 Document Intelligence
 
-`OCR` `Layout Analysis` `VLM Extraction` `Schema Enforcement` `Unstructured OSS` `PaddleOCR` `Tesseract` `Gemini` `Qwen3-VL`
-
-### 🤖 Agent Systems & Evaluation
-
-`Multi-Agent Orchestration` `MCP` `LLM Routing` `Tool Use` `Agent Training` `Evaluation Pipelines` `Data Curation at Scale` `LLMOps`
+`Layout Analysis` `Schema Enforcement` `Unstructured OSS` `PaddleOCR` `Tesseract` `Gemini` `Qwen3-VL`
 
 ### ⚙️ Training & Inference Infrastructure
 
@@ -274,10 +278,10 @@ Machine Learning Specialization (Stanford) · Deep Learning Specialization (Deep
 
 ## 🤝 Connect
 
-I'm interested in conversations around reinforcement learning, post-training, evaluation infrastructure, document intelligence, and production agentic systems.
+I'm interested in conversations around reinforcement learning, computer vision, evaluation infrastructure, and production multi-agent systems.
 
 🌐 [Portfolio](https://christinemstraub.com) | 📝 [Notion Portfolio](https://christinestraub.notion.site/Christine-Straub-ML-Portfolio-2f328fbe27068053b029f28ffe86cde9) | 📧 [Email](mailto:christinemstraub@gmail.com) | 👔 [LinkedIn](https://www.linkedin.com/in/straubchristine/)
 
 <p align="center">
-  <sub>From pre-training to production: systems that hold up in the real world.</sub>
+  <sub>Models that learn. Agents that ship. Systems that hold up in the real world.</sub>
 </p>
