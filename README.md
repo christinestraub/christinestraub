@@ -106,7 +106,7 @@ Computer vision and robotics for industrial automation: **10M+ images/day**, **7
 
 ### 📈 Software Engineer · Moody's Analytics
 
-Financial data platforms and analytics software: production systems for financial analytics, **500+ PRs reviewed** across production systems, **300+ production bugs resolved**.
+`Sep 2017 - Apr 2021` · Catastrophe risk modeling and location intelligence platforms for insurance and financial services clients: built client-facing features for RMS(one), RiskLink, and RiskBrowser, enabling catastrophe risk assessment and portfolio analysis on multi-billion dollar portfolios. Java, TypeScript, Python, geospatial visualization, and data pipelines, with **500+ PRs reviewed** and **300+ production bugs resolved** across production systems.
 
 ## 🏆 Key Projects & Impact
 
