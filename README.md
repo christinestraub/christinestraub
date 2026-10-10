@@ -101,19 +101,19 @@ I've built RL training and evaluation infrastructure, real-time vision systems f
 
 ## 💼 Experience
 
-### 🎯 Lead AI/ML Engineer · Bespokelabs AI
+### Lead Reinforcement Learning Engineer and Machine Learning Engineer · Bespokelabs AI
 
 RL environments and evaluation infrastructure for coding agents: realistic task specs, reward signals, deterministic verifiers, and rollout analysis for failure modes and reward hacking.
 
-### 📄 Senior AI/ML Engineer · Unstructured IO
+### Senior Machine Learning Engineer · Unstructured IO
 
 Enterprise document processing and agentic workflows: multimodal extraction pipelines, MCP-based tool use, verifier functions, and reproducible benchmark tasks.
 
-### 🏛️ Lead AI/ML Engineer · Medici Land Governance
+### Lead AI and Machine Learning Engineer · Medici Land Governance
 
 Document intelligence for high-stakes legal and enterprise documents: hybrid OCR → VLM extraction with confidence-scored review and benchmark-driven evaluation.
 
-### 🤖 Senior ML Engineer · RIOS Intelligent Machines
+### 🤖 Senior Machine Learning Engineer · RIOS Intelligent Machines
 
 Computer vision and robotics for industrial automation: **10M+ images/day**, **70% deployment-time reduction** through MLOps automation, GPU and edge optimization.
 
