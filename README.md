@@ -104,6 +104,10 @@ Document intelligence for high-stakes legal and enterprise documents: hybrid OCR
 
 Computer vision and robotics for industrial automation: **10M+ images/day**, **70% deployment-time reduction** through MLOps automation, GPU and edge optimization.
 
+### 📈 Software Engineer · Moody's Analytics
+
+Financial data platforms and analytics software: production systems for financial analytics, **500+ PRs reviewed** across production systems, **300+ production bugs resolved**.
+
 ## 🏆 Key Projects & Impact
 
 ### 🤖 Generative AI & Product Engineering
