@@ -88,7 +88,7 @@ I've built RL training and evaluation infrastructure, real-time vision systems f
 
 ## 💼 Experience
 
-### 🎯 Lead Reinforcement Learning Engineer and Machine Learning Engineer · [Bespokelabs AI](https://www.bespokelabs.ai/)
+### 🎯 Lead Reinforcement Learning Engineer · [Bespokelabs AI](https://www.bespokelabs.ai/)
 
 RL environments and evaluation infrastructure for coding agents: realistic task specs, reward signals, deterministic verifiers, and rollout analysis for failure modes and reward hacking.
 
